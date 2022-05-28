@@ -37,3 +37,5 @@ D'autres fonctions et d'autres routes seront ajoutées à l'API pour avoir le ma
 
 ### License : MIT
 ### Créé avec ❤ par Adloya
+[![Made With Love by Adloya](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%20by-Adloya-red.svg)](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%20by-Adloya-red.svg)
+
