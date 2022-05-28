@@ -1,10 +1,9 @@
 # pierredubois-api
 Une API pour les informations, les actualités, les réseaux sociaux du Collège Pierre Dubois à 🗺Laval
 
-[![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)]([https://naereen.github.io/](https://pierredubois-api.herokuapp.com))
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Adloya/pierredubois-api/blob/main/LICENSE)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Adloya/pierredubois-api/commit/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Adloya/pierredubois-api/issues/)
+[![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/pierredubois-api.herokuapp.com.svg)]([https://pierredubois-api.herokuapp.com](https://pierredubois-api.herokuapp.com))
+[![GitHub license](https://img.shields.io/github/license/Adloya/pierredubois-api.svg)](https://github.com/Adloya/pierredubois-api/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Adloya/pierredubois-api.svg)](https://GitHub.com/Adloya/pierredubois-api/issues/)
 
 
 
