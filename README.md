@@ -24,12 +24,13 @@ Dans le répertoire du projet, initialisez le projet comme ceci :
   - Executez le projet : ``node index.js`` (vous pouvez également utiliser des gestionnaires comme pm2 ou nodemon)
 
 ## Routes
-|Route| Nom de la page | Utilité | Disponibilité (✅/❌)
+|Route| Nom de la page | Utilité | Disponibilité (✅/❌/➖)
 |--|--|--|--|
 | / | Accueil | Liste les différentes routes | ✅
-| /news | Actualités | Les dernières actualités du collège | ✅
+| /latestnews | Actualités | Les dernières actualités du collège | ➖ (suspendu pour le moment, trop de requêtes au site du collège)
 | /dubnews | Journaux "Dub'news" | Les derniers journaux du collège | ❌
-| /twitter | Tweets | Les derniers Tweets du collège | ❌
+| /twitter | Tweets | Tous les tweets du collège | ✅
+| /latest_tweets | Latest Tweets | Les derniers tweets du collège | ✅
 | /youtube | Videos Youtube | Les dernières vidéos Youtube du collège | ❌
 
 D'autres fonctions et d'autres routes seront ajoutées à l'API pour avoir le maximum d'informations utiles sur le Collège Pierre Dubois
